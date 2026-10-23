@@ -11,6 +11,14 @@
   # Default build command.
   command = "npm run build"
 
+# Keep search engines from indexing this redesign concept, so it never
+# competes with the original blog. Applies to every file, including the
+# RSS feed and images, which can't carry a robots meta tag.
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Robots-Tag = "noindex, nofollow"
+
 [[plugins]]
 package = "netlify-plugin-cache"
 
