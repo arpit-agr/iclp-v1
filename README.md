@@ -6,7 +6,7 @@ This is the first version of the project. A newer version lives at [arpit-agr/ic
 
 | Version | Live site |
 | --- | --- |
-| v1 (this repo) | [v1-iclp.netlify.app](https://v1-iclp.netlify.app) |
+| v1 (this repo) | [iclp-v1.netlify.app](https://iclp-v1.netlify.app) |
 | v2 | [v2-iclp.netlify.app](https://v2-iclp.netlify.app) |
 
 > [!NOTE]
