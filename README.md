@@ -7,7 +7,7 @@ This is the first version of the project. A newer version lives at [arpit-agr/ic
 | Version | Live site |
 | --- | --- |
 | v1 (this repo) | [iclp-v1.netlify.app](https://iclp-v1.netlify.app) |
-| v2 | [v2-iclp.netlify.app](https://v2-iclp.netlify.app) |
+| v2 | [iclp-v2.netlify.app](https://iclp-v2.netlify.app) |
 
 > [!NOTE]
 > This is a personal design and front-end project. Post titles come from the original blog, but the post bodies are placeholder text.
